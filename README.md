@@ -7,6 +7,8 @@ Kaggle's competition for using Google's word2vec package for sentiment analysis
 
 There're some requirements for making the stuff work. Use `pip` to install them easily:
 
+## python3
+
 ```bash
 $> sudo pip install -r requirements.txt
 ```
